@@ -1,0 +1,1 @@
+Practicing using Git to stage and commit different files
